@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456372990412",
+    "project_id": "nurulproject-9fd60",
+    "storage_bucket": "nurulproject-9fd60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456372990412:android:ceb9ca3678c4b2a095ad69",
+        "android_client_info": {
+          "package_name": "com.example.nurulproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456372990412-l6lh8dj00mca0t5i74ffab333ec7netg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDmvysIY05G7vDIBpI82d8H4zrRqVtD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456372990412-l6lh8dj00mca0t5i74ffab333ec7netg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
